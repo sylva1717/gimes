@@ -1,0 +1,15 @@
+body{
+	margin:0;
+}
+
+.container{
+	width:1280px;
+	margin:0 auto;
+	position: relative;
+}
+
+.header{
+	height: 570px;
+	width:100%;
+	background: url(/img/header-bg.png) no-repeat;
+}
