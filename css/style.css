@@ -11,5 +11,5 @@ body{
 .header{
 	height: 570px;
 	width:100%;
-	background: url(/img/header-bg.png) no-repeat;
+	background: url(../img/header-bg.png) no-repeat;
 }
